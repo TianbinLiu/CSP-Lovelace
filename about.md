@@ -1,4 +1,8 @@
- {% include navigation.html %}
+---
+layout: default
+---
+
+{% include navigation.html %}
 
 ## Project
 
