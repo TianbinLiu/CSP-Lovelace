@@ -14,4 +14,6 @@ Have any questions about what we do? [We'd love to hear from you!](mailto:{{ sit
 <a href="https://github.com/TianbinLiu/tianbin/wiki/Tri-2:-TT6-Vocab-Competency">Tianbin-Tri 2: TT6 Vocab Competency</a>
 
 <a href="https://tianbinliu.github.io/-Allie-Justin-Lemay-Tianbin-Midterm-review-vocab/">Tianbin, Justin, Allie-Tri 2: TT6 Vocab Competency</a>
+
+<a href="https://tianbinliu.github.io/CSP-Lovelace/1827-11-22-surgeon.html">Blog Posts example</a>
 {% include_relative README.md %}
