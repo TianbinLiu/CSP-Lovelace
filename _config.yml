@@ -1,3 +1,24 @@
 description: An interactive website covering the 5 Big Ideas of College Board AP Computer Science Principles. See the [website ideation](https://github.com/TheRadRabbidRabbit/Team-Lovelace/wiki/Website-Ideation#purpose) Wiki for more information.
 email: "l1965921542@gmail.com"
 theme: jekyll-theme-midnight
+team_members:
+  -
+    name: "Allie Xiao"
+    role: "Scrum Master"
+    start_date: "2021-11-19"
+  -
+    name: "Gabriel Boudreau"
+    role: "Deployment Manager"
+    start_date: "2021-11-19"
+  -
+    name: "Justin Lemay"
+    role: "Github Admin"
+    start_date: "2021-11-19"
+  -
+    name: "Rebecca Su"
+    role: "Technical Officer"	
+    start_date: "2021-11-19"
+  -
+    name: "Tianbin Liu"
+    role: "Primary Designer"
+    start_date: "2021-11-19"
